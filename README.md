@@ -1,6 +1,6 @@
 ## Obesity Level Prediction
 This project is my homework for CIS 9660 - Data Mining for Business Analytics.  
-The goal of this project is to utilize the obesity level dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) and develop machine learning models that can accurately predict obesity levels basing on different lifestyles and physical conditions.  
+The goal of this project is to utilize the obesity level dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) and develop a machine learning model that can accurately predict obesity levels based on different lifestyles and physical conditions.  
 
 The project consists of 7 parts:  
 
