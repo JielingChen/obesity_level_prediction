@@ -26,7 +26,7 @@ The project consists of 7 parts:
 * Evaluate the performance of the tuned model on unseen data to ensure its generalization capability.
   
 **(7) Business Insights:**
-* Interprets the model's feature importances to identify the most influential factors in classifying obesity levels.
+* Interprets the model's feature importances to identify the most influential factors in predicting obesity levels.
 
 
 Parts (1)-(3) were done according to the instructor's requirements, while parts (4)-(7) were done out of personal interest to extend the analysis and enrich the overall results.
